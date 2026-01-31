@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/delmsyap/code-server-copilot">
-    <img src="images/githubcopilot.svg" alt="Logo" width="80" height="80">
+    <img src="images/copilot.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">code-server-copilot</h3>
