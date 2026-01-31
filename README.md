@@ -77,7 +77,20 @@ Follow the steps below to enable Copilot in your code-server setup.
    ```sh
    git clone https://github.com/delmsyap/code-server-copilot.git
    ```
-2. Follow the repository instructions to apply the patch or configuration required for Copilot support.
+2. ```sh
+   bash install-copilot.sh
+   
+    GitHub Copilot Extensions Installer
+    ====================================
+    
+    Detected VS Code version: 1.108.1
+    
+    Processing GitHub.copilot...
+      Found compatible version: 1.388.0
+    Installing GitHub.copilot v1.388.0...
+      Downloading...
+      % Total    % Received % Xferd  Average Speed   Time
+    ```
 3. Restart code-server after installation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
